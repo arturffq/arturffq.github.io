@@ -1,7 +1,6 @@
 ---
 layout: home
-title: Arrive
+title: A warm cup of tea
 ---
-# A warm cup of tea
 
 Not as cool as bad bill.
