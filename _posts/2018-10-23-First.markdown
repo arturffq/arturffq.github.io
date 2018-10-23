@@ -1,5 +1,6 @@
 ---
 title: To build a place
+read_time: true
 ---
 
 There is little to it.
