@@ -1,6 +1,6 @@
 ---
 layout: home
-title: A warm cup of tea
+title: A warm cup
 ---
 
 Not as cool as bad bill.
