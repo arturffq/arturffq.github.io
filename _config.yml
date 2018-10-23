@@ -1,2 +1,26 @@
 #theme: jekyll-theme-slate
 remote-theme: arnp/herring-cove
+
+name: Artur
+author: ArturFFQ
+baseurl: /me
+description: Personal Page
+github: http://www.github.com/arturffq
+
+
+highlighter: pygments
+markdown: redcarpet
+redcarpet:
+  extensions: ["tables"]
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+layout: "post"
