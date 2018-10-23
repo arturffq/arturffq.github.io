@@ -7,9 +7,6 @@ baseurl: /me
 description: Personal Page
 github: http://www.github.com/arturffq
 
-
-highlighter: pygments
-
 defaults:
   - scope:
       path: ""
