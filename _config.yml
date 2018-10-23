@@ -9,9 +9,6 @@ github: http://www.github.com/arturffq
 
 
 highlighter: pygments
-markdown: redcarpet
-redcarpet:
-  extensions: ["tables"]
 
 defaults:
   - scope:
