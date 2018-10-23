@@ -9,6 +9,8 @@
 
 @import "basically-basic";
 
+$sidebar-background-color: #eaf3f3;
+
 .sidebar {
   position: fixed;
   top: 0;
@@ -165,5 +167,3 @@
     align-items: center;
   }
 }
-
-$sidebar-background-color: #eaf3f3;
