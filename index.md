@@ -1,3 +1,3 @@
-# A Blanket and a Cup of Tea
+# A warm cup of tea
 
 Not as cool as bad bill.
