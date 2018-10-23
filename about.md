@@ -1,4 +1,4 @@
 ---
 layout: about
-title: Converning Nothing
+title: Concerning Nothing
 ---
