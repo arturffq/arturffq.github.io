@@ -6,15 +6,3 @@ author: ArturFFQ
 baseurl: /me
 description: Personal Page
 github: http://www.github.com/arturffq
-
-defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "default"
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-layout: "post"
