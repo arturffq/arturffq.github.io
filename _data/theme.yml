@@ -15,3 +15,8 @@ t:
   of: "of"
   min_read: "min read"
   present: "Present"
+  
+navigation_pages:
+  - listen.md
+  - watch.md
+  - about.md
