@@ -1,4 +1,6 @@
 ---
 layout: about
-title: Concerning Nothing
+title: about
 ---
+
+# Concerning Nothing
