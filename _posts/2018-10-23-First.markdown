@@ -1,5 +1,5 @@
 ---
-title:To build a place
+title: To build a place
 ---
 
 There is little to it.
