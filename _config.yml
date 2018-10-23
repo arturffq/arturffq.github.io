@@ -1,8 +1,2 @@
 #theme: jekyll-theme-slate
-remote-theme: arnp/herring-cove
-
-name: Artur
-author: ArturFFQ
-baseurl: /me
-description: Personal Page
-github: http://www.github.com/arturffq
+remote-theme: poole/hyde
