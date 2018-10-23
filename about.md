@@ -1,3 +1,4 @@
---
-title: Concerning Nothing
---
+---
+layout: about
+title: Converning Nothing
+---
