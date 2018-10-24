@@ -3,6 +3,6 @@ layout: home
 title: A warm cup
 ---
 
-## Pretentious Nonsense
+# Pretentious Nonsense
 
-Not as cool as bad bill.
+*Not as cool as bad bill.*
