@@ -7,4 +7,4 @@ title: A warm cup
 
 *Not as cool as bad bill.*
 
-Tou só a verm
+Tou só a ver
